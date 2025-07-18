@@ -61,8 +61,5 @@ A Java-based Airline Management System using Swing and MySQL, developed in NetBe
 - Integrate payment gateways for real-time transactions.
 - Improve search functionality with advanced filters.
 
-## License 📜
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## Contact 📬
 For questions or contributions, open an issue or submit a pull request on the GitHub repository 🙌.
