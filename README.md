@@ -18,10 +18,6 @@ Ticket booking and ticket cancellation
 Search functionality for flights and customers
 Real-time data update with MySQL backend
 
-How to Run the Project:
-Clone the Repository
-Download or clone the repository to your local system.
-
 Setup Database:
 Open MySQL or any SQL client and execute the following commands:
 
